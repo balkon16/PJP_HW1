@@ -1,6 +1,7 @@
 # Introduction
 
-This is the first homework in Programming Languages Practice course which is dedicated to learning Groovy.
+This is the first homework in Programming Languages Practice course which is dedicated to learning Groovy. Other repositories you may be interested in:
+* [Homework no. 2](https://github.com/balkon16/PJP_HW2)
 
 # Exercise no. 1
 
